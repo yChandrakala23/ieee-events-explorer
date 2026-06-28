@@ -47,7 +47,7 @@ The application focuses on:
 ---
 ## 📁 Project Structure
 
-
+```
 src/
 ├── components/        Reusable UI components
 ├── pages/             Application pages (Feed, Detail, Bookmarks)
