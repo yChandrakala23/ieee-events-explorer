@@ -43,16 +43,19 @@ The application focuses on:
 - LocalStorage API
 - CSS (Inline styling approach)
 
+
+---
 ## 📁 Project Structure
----
+
+
 src/
-│── components/ Reusable UI components
-│── pages/ Application pages (Feed, Detail, Bookmarks)
-│── hooks/ Custom React hooks (API, bookmarks, debounce)
-│── utils/ Helper functions & data normalization
-│── App.jsx Main routing configuration
-│── main.jsx Application entry point
----
+├── components/        Reusable UI components
+├── pages/             Application pages (Feed, Detail, Bookmarks)
+├── hooks/             Custom React hooks (API, bookmarks, debounce)
+├── utils/             Helper functions & data normalization
+├── App.jsx            Main routing configuration
+└── main.jsx           Application entry point
+```
 
 ## ⚙️ How It Works
 
