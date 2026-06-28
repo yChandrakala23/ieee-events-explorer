@@ -47,15 +47,12 @@ The application focuses on:
 ---
 ## 📁 Project Structure
 
-```
-src/
-├── components/        Reusable UI components
-├── pages/             Application pages (Feed, Detail, Bookmarks)
-├── hooks/             Custom React hooks (API, bookmarks, debounce)
-├── utils/             Helper functions & data normalization
-├── App.jsx            Main routing configuration
-└── main.jsx           Application entry point
-```
+- `src/components/` → Reusable UI components  
+- `src/pages/` → Application pages (Feed, Detail, Bookmarks)  
+- `src/hooks/` → Custom React hooks (API, bookmarks, debounce)  
+- `src/utils/` → Helper functions & data normalization  
+- `App.jsx` → Main routing configuration  
+- `main.jsx` → Application entry point  
 
 ## ⚙️ How It Works
 
