@@ -105,11 +105,12 @@ Authentication system
 Backend integration
 Event registration system
 Admin dashboard for event management
+
 👨‍💻 Author
 
-Chandrakala Y
+Yarragunta Chandrakala
 RV College of Engineering
-Electronics and Communication Engineering (2028)
+Data Science
 
 📄 License
 
